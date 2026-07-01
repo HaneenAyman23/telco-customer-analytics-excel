@@ -28,7 +28,6 @@ Telco-Customer-Analytics/
 │   └── telco_customer_churn.csv        ← Raw dataset (source, untouched)
 │
 ├── 📁 assets/
-│   ├── dashboard.png                   ← Dashboard screenshot
 │   └── demo.mp4                        ← Screen recording walkthrough
 │
 └── README.md
@@ -165,8 +164,7 @@ Customer Lookup Sheet          Dashboard Sheet
 **Haneen**
 Data Analytics | Web Development | ERP Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/haneen-ayman-240051387)
 
 ---
 
