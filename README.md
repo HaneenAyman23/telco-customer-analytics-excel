@@ -11,7 +11,7 @@
 
 ## 🎥 Demo Walkthrough
 
-[![Watch the demo](assets/dashboard.png)](YOUR_VIDEO_LINK_HERE)
+[![Watch the demo]](https://drive.google.com/file/d/1FFdyr6-VFYW6AsqkUbzI6NCl-4rd56Zp/view?usp=sharing)
 
 > 📌 Click the image above to watch a full walkthrough of the workbook — Dashboard, Customer Lookup tool, Summary Tables, and formula logic. (1 min 16 sec)
 
