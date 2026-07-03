@@ -28,6 +28,7 @@ Telco-Customer-Analytics/
 │   └── telco_customer_churn.csv        ← Raw dataset (source, untouched)
 │
 ├── 📁 assets/
+│   ├── dashboard.png                   ← Dashboard screenshot
 │   └── demo.mp4                        ← Screen recording walkthrough
 │
 └── README.md
@@ -88,6 +89,8 @@ Telco_Customer_Analytics.xlsx
 ---
 
 ## 📊 Dashboard Preview
+
+![Telco Customer Analytics Dashboard](assets/Dashboard.png)
 
 ### KPI Cards
 | Total Customers | Overall Churn Rate | Avg Monthly Charges | Total Monthly Revenue | Fiber Optic Adoption | Avg Tenure | Senior Citizen % |
